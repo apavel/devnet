@@ -1,5 +1,5 @@
-# mgmt-addr/hostname,device_type,username,password,enable password (опционально)
-# device_type один из списка c https://github.com/ktbyers/netmiko/blob/develop/netmiko/ssh_dispatcher.py (CLASS_MAPPER_BASE)
+# mgmt-addr/hostname,device_type,username,password,enable password (п╬п©я├п╦п╬п╫п╟п╩я▄п╫п╬)
+# device_type п╬п╢п╦п╫ п╦п╥ я│п©п╦я│п╨п╟ c https://github.com/ktbyers/netmiko/blob/develop/netmiko/ssh_dispatcher.py (CLASS_MAPPER_BASE)
 
 # C851W
 swgw,cisco_ios,cisco,notcisco,totally-not-cisco
